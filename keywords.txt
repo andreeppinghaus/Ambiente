@@ -1,0 +1,43 @@
+#######################################
+# Syntax Coloring Map for Ambiente
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Ambiente	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Ambiente	   KEYWORD2
+setup	       KEYWORD2
+
+getX	KEYWORD2
+getY	KEYWORD2
+getZ	KEYWORD2
+setX	KEYWORD2
+setY	KEYWORD2
+setZ	KEYWORD2
+
+
+bmp085Calibration	KEYWORD2
+bmp085GetTemperature	KEYWORD2
+bmp085GetPressure	KEYWORD2
+bmp085Read		KEYWORD2
+bmp085ReadInt	KEYWORD2
+bmp085ReadUT	KEYWORD2
+bmp085ReadUP	KEYWORD2
+writeRegister	KEYWORD2
+readRegister	KEYWORD2
+calcAltitude	KEYWORD2
+		
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+OSS LITERAL1
+BMP085_ADDRESS LITERAL1
